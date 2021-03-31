@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ASO Training Course</string>
+    <string name="about">Hello Students ,
+        We provide best app services for our students to grow their knowledge and skill.
+    </string>
+    <string name="us">
+        Your reviews and comments in the Play Store have been motivating ASO Training Course for long. Please continue doing so as we have many possibilities to explore together!
+    </string>
+    <string name="level1">here you will find app name is coding library and app related keywords are
+        1.E-books
+        2.programming
+        3.coding
+        like that.</string>
+    <string name="level2">here you will find app name(coding library) and app related keywords are
+        1.learn coding
+        2.programming languages.
+        like that.</string>
+    <string name="k"></string>
+</resources>

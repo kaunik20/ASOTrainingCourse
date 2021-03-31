@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f0f0ff"
+    android:padding="10dp"
+    tools:context=".level3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="left"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="App Icon : "
+            android:textColor="#f00000"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:textSize="18dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_marginTop="8dp"
+            android:background="#f00000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="In this section you have to drag and drop your APP LOGO."
+            android:textColor="#000000"
+            android:layout_marginTop="10dp"
+            android:textSize="18dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="250dp"
+            android:layout_marginTop="1dp"
+            android:src="@drawable/aso5"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Your logo should contain this 10 qualities of a Good Logo."
+            android:textColor="#000000"
+            android:gravity="left"
+            android:layout_marginTop="5dp"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1. Simple,"
+            android:textColor="#000000"
+            android:gravity="left"
+            android:layout_marginTop="10dp"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. Versatile,"
+            android:textColor="#000000"
+            android:gravity="left"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3. Strong,"
+            android:textColor="#000000"
+            android:gravity="left"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4. Memorable,"
+            android:textColor="#000000"
+            android:gravity="left"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5. Relatable,"
+            android:textColor="#000000"
+            android:gravity="left"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="6. Unique,"
+            android:textColor="#000000"
+            android:gravity="left"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="7. Appealing,"
+            android:textColor="#000000"
+            android:gravity="left"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="8. Reflective,"
+            android:textColor="#000000"
+            android:gravity="left"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9. Competitive,"
+            android:textColor="#000000"
+            android:gravity="left"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="10. Iconic."
+            android:textColor="#000000"
+            android:gravity="left"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="that`s all for this section."
+            android:textColor="#38c"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:layout_marginTop="15dp"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="If you have any query/question than feel free and ask us."
+            android:textColor="#38c"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:layout_marginTop="15dp"
+            android:textSize="18dp" />
+    </LinearLayout>
+
+
+</ScrollView>

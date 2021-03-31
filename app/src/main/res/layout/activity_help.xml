@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f0f0ff"
+    android:padding="10dp"
+    tools:context=".help">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="left"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="[You] + [Us] = [We]  "
+            android:textColor="#f00000"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:textSize="18dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_marginTop="8dp"
+            android:background="#f00000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="For You"
+            android:fontFamily="serif"
+            android:textColor="#f00000"
+            android:layout_marginTop="10dp"
+            android:textSize="18dp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="If you have any query/question than feel free and ask us."
+            android:textColor="#38c"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="this not a just words , this is a feeling for students and users. so don`t think any more to ask query/question."
+            android:textColor="#000000"
+            android:gravity="left"
+            android:layout_marginTop="5dp"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="For Us"
+            android:fontFamily="serif"
+            android:textColor="#f00000"
+            android:layout_marginTop="10dp"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hope , you are doing well by this app.if this app is helpful for you then give your feedback by reviews and ratings and you have any suggestions for us then also give feedback by reviews."
+            android:textColor="#000000"
+            android:gravity="left"
+            android:layout_marginTop="10dp"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thankyou so much for connected with us!!!"
+            android:textColor="#000000"
+            android:gravity="left"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:textSize="18dp" />
+
+    </LinearLayout>
+
+</ScrollView>
